@@ -16,7 +16,6 @@ const App = () => {
         <button className='container-button cancel'>Cancel Order</button>
       </div>
     </div>
-
   );
 }
 

@@ -1,0 +1,33 @@
+.picture {
+  width: 100%;
+}
+
+.container-box {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  margin: 20px auto;
+}
+
+.container-text {
+  padding: 20px 20px 20px 0;
+  text-align: justify;
+}
+
+.container-button {
+  background-color: rgb(7, 7, 102);
+  color: white;
+  padding: 15px;
+  border: none;
+  border-radius: 10px;
+  margin: 15px 0;
+  cursor: pointer;
+}
+
+.container-button:hover {
+  box-shadow: 0px 10px 13px -7px #000000;
+}
+
+.cancel {
+  background-color: gray;
+}
