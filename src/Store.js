@@ -6,7 +6,7 @@ export default class Store extends React.Component {
   constructor() {
     super()
     this.state = {
-      count: 5
+      count: 5,
     }
   }
 

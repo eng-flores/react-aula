@@ -8,8 +8,8 @@ import reportWebVitals from './reportWebVitals';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <>
-    <Pokemon></Pokemon>
-    {/* <Form></Form> */}
+    {/* <Pokemon></Pokemon> */}
+    <Form></Form>
   </>
 );
 
